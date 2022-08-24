@@ -7,7 +7,7 @@ A simple Economy bot made with discord.js v13
 
 ## SLASH COMMAND NOT SUPPORTED
 
-##### A star is always appreciated. I am not updating this anymore.
+##### A little star will make my day !
 
 #### Important link
 + [Quick.db Repo](https://github.com/TrueXPixels/quick.db)
